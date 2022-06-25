@@ -1,0 +1,136 @@
+{
+    "name_and_link": [
+        "Ahmed Mohamed Abdelmo3ty",
+        "https://github.com/AHMEDMabdelmo3ty"
+    ],
+    "designation": [
+        "Flutter Developer."
+    ],
+    "resume_download_link": "https://docs.google.com/document/d/15T64f6XCPKDaJX7CUFDIqly-H4PcudLTWDlKGxb9IvQ/edit?usp=sharing/export?format=pdf",
+    "social_media": {
+        "1": [
+            "https://github.com/AHMEDMabdelmo3ty",
+            "github"
+        ],
+        "2": [
+            "https://www.facebook.com/abdelmo3ty97",
+            "facebook"
+        ],
+        "3": [
+            "https://www.linkedin.com/in/ahmed-abdelmo3ty/",
+            "linkedin"
+        ],
+        "4": [
+            "mailto:theabdelmo3ty@gmail.com",
+            "email"
+        ]
+    },
+    "contact_me": {
+        "location": "Qalyubia- Egypt",
+        "open_for_opportunities": "Yes",
+        "picture": "picture.jpg"
+    },
+    "about": "A passionate Software Developer 🚀 | Flutter Developer ",
+    "bio": "n independent and self-motivated with proven and tested negotiation, Looking for a challenging role\nin a reputable organization to improve my technical and learn something new, and I particularly enjoy\nworking as a part of a team, I find solutions, get creative and solve problems without needing the\nhelp of coworkers or managers. I know when to ask for help and I don’t stay quiet if I do need\nassistance. But when it is possible to handle something without occupying the time of others, I do it\nand I consider myself very good at it.",
+    "what_i_do": {
+        "tools": [
+            "flutter.png",
+            "java.png",
+            "python.png",
+            "git.png"
+        ],
+        "proficiency": [
+            "Dart--85",
+            "Flutter--85",
+            "Java/Python--60",
+            "Git Hub--65"
+        ]
+    },
+    "education": {
+        "1": {
+            "institute": "Institute of Systems and Information\n",
+            "location": "cairo",
+            "years": "2018 - 2023",
+            "description": " Abbasia Information Systems Department",
+            "grades": "",
+            "logo": "rcciiat.png"
+        }
+    },
+    "experience": {
+        "1": {
+            "name": "Almurafiq Company",
+            "role": "Flutter Developer",
+            "period": "01-2022 , 06-2022",
+            "description": "Working in the Flutter App Dev Team.",
+            "image_name": "app_logo.png"
+        },
+        "2": {
+            "name": "Google Developer Student Club",
+            "role": "flutter developer core member",
+            "period": "September, 2021 - Present",
+            "description": "Helped in organizing and conducting technical workshops, and informative webinars for community members.",
+            "image_name": "GDSC.png"
+        }
+
+    },
+    "projects": {
+        "1": {
+            "name": "Al Murafiq",
+            "tech_stack_used": "Flutter",
+            "description": "AlMurafiq application works as a guide for commercial activities of all kinds and helps you to access the data of various activities (such as contact numbers - and the geographical location of the activity via Google Maps - and its identification guide or brochure - as well as pictures of the activity that contain the latest offers) not only at the local level But on a global level too.",
+            "general_or_github_link": "https://play.google.com/store/apps/details?id=io.krito.al_murafiq&hl=ar"
+        },
+        "2": {
+            "name": "Sboba",
+            "tech_stack_used": "Flutter",
+            "description": "Egypt schedule application, job opportunities for young people outside Egypt \n used  Packages : dio , bloc ,image_picker ,shared_preferences and integration payment with paymob",
+            "general_or_github_link": "https://play.google.com/store/apps/details?id=com.enterprise.sbobaapp&hl=ar"
+        },
+        "3": {
+            "name": "Ecommerce App",
+            "tech_stack_used": "flutter ",
+            "description": "his is a full ecommerce application .I made\nby using Rest APIS (Dio package), Shared\nPreference, State management (Getx) with\n(Dart and Flutter)",
+            "general_or_github_link": "https://github.com/AHMEDMabdelmo3ty/ecommerceApp"
+        },
+        "4": {
+            "name": "lamtna App",
+            "tech_stack_used": "Flutter",
+            "description": "Social Media application, a person can add \nposts and search \nfor the mostinteractive posts to use\nback-end \"strapi\" \nPackages :- dio - http - provider \nfont_awesome_utter \n- image_picker - shared_preferences\u0002salomon_bottom_bar -frlutter_aler",
+            "general_or_github_link": "https://github.com/AHMEDMabdelmo3ty/lamtna_abdelmo3ty"
+        },
+        "5": {
+            "name": "restaurants Shibin",
+            "tech_stack_used": "flutter ,api nodo js",
+            "description": "n application that displays all restaurants in \nthe city, and the page of each restaurant \ncontains mobile Numbers to communicate \nwith the restaurant and pictures of the place \nand location Packages:-dio-http-provider\u0002font_awesome_utter\nimage_pickershared_preferences\u0002geolocator-salomon_bottom_bar -\nrutter_alert- photo_view - url_launcher.",
+            "general_or_github_link": "https://github.com/AHMEDMabdelmo3ty/restaurants_shibin"
+        },
+        "6":{
+            "name": "todo",
+            "tech_stack_used": "flutter ",
+            "description": "ToDo List App is a kind of app that generally \nused to maintain our day-to-day tasks or list \neverything that we have to do, with the most \nimportant tasks at the top of the list, and the \nleast important tasks at the bottom. It is \nhelpful in planning our daily schedules",
+            "general_or_github_link": "https://github.com/AHMEDMabdelmo3ty/todo"
+        }
+    },
+    "achievements": {
+        "1": {
+            "description": "Worked in a team (Quasar) at HackNPitch’21 (hackathon organised by JU E-Cell ) and ranked in the top 6 (earned the special mention tag) among 50+ other teams across India.",
+            "link": "https://www.linkedin.com/posts/juecell_hacknpitch-include-hackathon-activity-6849231722333249536-qqw2"
+        },
+        "2": {
+            "description": "Won Filecoin track prize from Filecoin for the best use of Filecoin and/or IPFS in a hackathon project (worth Rs. 20,000).",
+            "link": "https://www.linkedin.com/posts/shourya-shikhar_dapp-filecoin-decentralized-activity-6889903951555235840-FuLM"
+        },
+        "3": {
+            "description": "Have 600+ reputation points in Stack Overflow.",
+            "link": "https://stackoverflow.com/users/10951873/shourya-shikhar"
+        },
+        "4": {
+            "description": "Completed 30 Days of Google Cloud '21.\n- Completed Cloud Engineering Track\n- Completed Data Science & Machine Learning Track",
+            "link": "https://www.qwiklabs.com/public_profiles/d317f0a6-63b7-4c9f-be77-066e75ba3c6a"
+        },
+        "5": {
+            "description": "Completed Hacktoberfest '21 with 6 merged PRs.",
+            "link": "https://www.linkedin.com/posts/shourya-shikhar_hacktoberfest2021-hacktoberfest-opensource-activity-6857565719031361536-OpX8"
+        }
+    }
+}
